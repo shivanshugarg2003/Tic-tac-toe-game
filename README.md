@@ -13,6 +13,9 @@ JavaScript
 HTML, CSS (for styling)
 
 Future Enhancements : 
+
 AI-based Single Player Mode: Implement a bot to play against.
+
 Online Multiplayer: Enable remote play over the internet.
+
 Enhanced UI/UX: Add animations and sound effects for a better experience.
